@@ -1,5 +1,5 @@
 # NYC_geography
- Geographic boundaries for NYC, including shapefiles and simplified geojson and topojson files with join fields. A reference repository for NYC Environmental Health.
+ Geographic boundaries for NYC, including (some)shapefiles and simplified geojson and topojson files with join fields. A reference repository for NYC Environmental Health.
 
 ## Sources
  Most of these shapefiles were originally published by NYC Department of City Planning on their ['Bytes of the Big Apple' page](https://www1.nyc.gov/site/planning/data-maps/open-data.page). The modified 2010 Zip Code Tabulation Areas were supplied by the incredible Gretchen Culp at DOHMH. UHF 34 and 42 shapefiles were supplied to my by the wonderful Susan Resnick, also at DOHMH. 
