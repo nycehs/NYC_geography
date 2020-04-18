@@ -4,7 +4,7 @@
   "height": "container",
   "autosize": {"type": "fit", "contains": "padding"},
     "data":{
-    "url": "/UHF34.geo.json",
+    "url": "/bb.json",
     "format": {"type": "json", "property": "features"}
     },
     "mark": {"type": "geoshape", "stroke": "#ff11ff","fill":"lightgray"}

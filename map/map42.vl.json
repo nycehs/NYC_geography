@@ -4,7 +4,7 @@
   "height": "container",
   "autosize": {"type": "fit", "contains": "padding"},
     "data":{
-    "url": "/UHF42.topo.json",
+    "url": "/borough.topo.json",
     "format": {"type": "topojson", "feature": "collection"}
     },
     "mark": {"type": "geoshape", "stroke": "#ffffff","fill":"lightgray"}
