@@ -1,0 +1,11 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": "container",
+  "height": "container",
+  "autosize": {"type": "fit", "contains": "padding"},
+    "data":{
+    "url": "/UHF34.geo.json",
+    "format": {"type": "json", "property": "features"}
+    },
+    "mark": {"type": "geoshape", "stroke": "#ff11ff","fill":"lightgray"}
+  }

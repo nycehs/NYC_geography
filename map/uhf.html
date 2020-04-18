@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Draft Map</title>
+  <!-- Import Vega & Vega-Lite (does not have to be from CDN) -->
+  <script src="https://cdn.jsdelivr.net/npm/vega@5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@4"></script>
+  <!-- Import vega-embed -->
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@6"></script>
+  <script src="mapuhf.js"></script>
+  <link href="map1.css" rel="stylesheet">
+  <style>.background {fill: transparent; stroke: transparent !important;}</style>
+</head>
+<body>
+  <div style="width: 50%; margin: 0 auto">
+  <input type="radio" name="uhfRadioGroup" value="42" id="42" checked> <label for="ucd">UHF42</label> &nbsp;&nbsp;
+  <input type="radio" name="uhfRadioGroup" value="34" id="34"/> <label for="upuma">UHF34</label> &nbsp;&nbsp;
+  <input type="radio" name="uhfRadioGroup" value="ZIP" id="zip"><label for="uzip">ZIP codes</label>
+</div>
+  <div class="vis2" id="map"></div>
+
+</div>
+</body>
+</html>
