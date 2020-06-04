@@ -1,0 +1,56 @@
+Subborough_ID,Neighborhood_Name,Borough,PUMA_ID
+1,Mott Haven/Hunts Point,Bronx,3710
+2,Morrisania/East Tremont,Bronx,3705
+3,Highbridge/S.Concourse,Bronx,3708
+4,Univ.Heights/Fordham,Bronx,3707
+5,Kings.Heights/Mosholu,Bronx,3706
+6,Riverdale/Kingsbridge,Bronx,3701
+7,Soundview/Parkchester,Bronx,3709
+8,Throgs Neck/Co-op City,Bronx,3703
+9,Pelham Parkway,Bronx,3704
+10,Williamsbridge/Baychester,Bronx,3702
+11,Williamsburg/Greenpoint,Brooklyn,4001
+12,Brooklyn Heights/Fort Greene,Brooklyn,4004
+13,Bedford Stuyvesant,Brooklyn,4003
+14,Bushwick,Brooklyn,4002
+15,East New York/Starret City,Brooklyn,4008
+16,Park Slope/Carroll Gardens,Brooklyn,4005
+17,Sunset Park,Brooklyn,4012
+18,N.Crown Heights/Pros.Heights,Brooklyn,4006
+19,South Crown Heights,Brooklyn,4011
+20,Bay Ridge,Brooklyn,4013
+21,Bensonhurst,Brooklyn,4017
+22,Borough Park,Brooklyn,4014
+23,Coney Island,Brooklyn,4018
+24,Flatbush,Brooklyn,4015
+25,Sheepshead Bay/Gravesend,Brooklyn,4016
+26,Brownsville/Ocean Hill,Brooklyn,4007
+27,East Flatbush,Brooklyn,4010
+28,Flatlands/Canarsie,Brooklyn,4009
+29,Green.Village/Fin.District,Manhattan,3810
+30,L.East Side/Chinatown,Manhattan,3809
+31,Chealsea/Clinton/Midtown,Manhattan,3807
+32,Stuy.Town/Turtle Bay,Manhattan,3808
+33,Upper West Side,Manhattan,3806
+34,Upper East Side,Manhattan,3805
+35,Morning.Heights/Hamilton Heights,Manhattan,3802
+36,Central Harlem,Manhattan,3803
+37,East Harlem,Manhattan,3804
+38,Washington Heights/Inwood,Manhattan,3801
+39,Astoria,Queens,4101
+40,Sunnyside/Woodside,Queens,4109
+41,Jackson Heights,Queens,4102
+42,Elmhurst/Corona,Queens,4107
+43,Middle Village/Ridgewood,Queens,4110
+44,Forest Hills/Rego Park,Queens,4108
+45,Flushing/Whitestone,Queens,4103
+46,Hillcrest/Fresh Meadows,Queens,4106
+47,Kew Gardens/Woodhaven,Queens,4111
+48,Howard Beach/S.Ozone Park,Queens,4113
+49,Bayside/Little Neck,Queens,4104
+50,Jamaica,Queens,4112
+51,Bellerose/Rosedale,Queens,4105
+52,Rockaways,Queens,4114
+53,North Shore,Staten Island,3903
+54,Mid Island,Staten Island,3902
+55,South Shore,Staten Island,3901
